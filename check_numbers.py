@@ -10,5 +10,5 @@ def all_positive(numbers):
 
 # تجربة
 nums = [3, 7, -2, 5]
-print("القائمة:", nums)
+print("الأرقام الموجودة في القائمة:", nums)
 print("هل جميعها موجبة؟", all_positive(nums))
